@@ -37,7 +37,7 @@ Note: You need to have git and npm already installed to setup and install.
 5. Open the folder inside the zip.
 6. Follow steps 6-8 below.
 
-Clone the repo:
+**Clone the repo:**
 1. Go to https://github.com/sinkstyt/get-gifs
 2. Navigate to and click the green ![green code button](src/assets/images/code-button.png) button on middle upper right part of webpage.
 3. Copy the HTTPs address to your clipboard.
@@ -55,12 +55,6 @@ $ code .
 $ npm install
 ```
 
-
-
-
-
-
-
 ## Known Bugs
 
 * _No known Bugs_
@@ -74,6 +68,8 @@ Copyright (c) 2021 **_Mekinsie Callahan, Jo Miller, Tyler Sinks_**
 * Reach Mekinsie: via <a href="https://www.linkedin.com/in/mekinsie/" target="_blank">Linkedin</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a>. Checkout Mekinsie's <a href="https://github.com/mekinsie" target="_blank">GitHub profile</a>.</li>
 
 * Reach Tyler: via <a href="https://www.linkedin.com/in/tyler-sinks-93438137/" target="_blank">LinkedIn</a> or <a href="mailto:tyler.sinksa@gmail.com" target="_blank">email</a>. Checkout Tyler's <a href="https://github.com/sinkstyt" target="_blank">GitHub profile</a>.</li>
+
+
 
 
 * Reach Jo: via <a href="https://www.linkedin.com/in/jomillerde/" target="_blank">LinkedIn</a> or <a href="mailto:joannadawnmiller@gmail.com" target="_blank">email</a>. Checkout Jo's <a href="https://github.com/joanna-miller" target="_blank">GitHub profile</a>.</li>
