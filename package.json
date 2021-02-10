@@ -10,7 +10,7 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "Jo Miller, Mekinsie Callahan, Jo Miller",
+  "author": "Kerry Lang, Jo Miller",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
